@@ -1,0 +1,2 @@
+# vFurnace
+Furnace plugin
