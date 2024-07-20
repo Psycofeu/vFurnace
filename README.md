@@ -25,6 +25,7 @@ Furnace plugin for **PMMP**
 furnace_description: "Cuire vos items dans votre main"
 furnace_no_perm: "§c- §fVous n'avez pas la permission d'utiliser cette commande"
 furnace_message: "§a- §fVous avez bien cuit §a{count}x {items}§f !"
+no_furnace_message: "§c- §fVous ne pouvez pas cuire cette item !"
 ```
 
 - 🚧 My projects :
