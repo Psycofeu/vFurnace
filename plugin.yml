@@ -1,0 +1,9 @@
+name: vfurnace
+author: psycofeu
+version: 1.0.0
+api: 5.0.0
+main: psycofeu\furnace\Main
+
+permissions:
+  furnace.use:
+    default: op

@@ -1,0 +1,19 @@
+#$$$$$$$\                                           $$$$$$\
+#$$  __$$\                                         $$  __$$\
+#$$ |  $$ | $$$$$$$\ $$\   $$\  $$$$$$$\  $$$$$$\  $$ /  \__|$$$$$$\  $$\   $$\
+#$$$$$$$  |$$  _____|$$ |  $$ |$$  _____|$$  __$$\ $$$$\    $$  __$$\ $$ |  $$ |
+#$$  ____/ \$$$$$$\  $$ |  $$ |$$ /      $$ /  $$ |$$  _|   $$$$$$$$ |$$ |  $$ |
+#$$ |       \____$$\ $$ |  $$ |$$ |      $$ |  $$ |$$ |     $$   ____|$$ |  $$ |
+#$$ |      $$$$$$$  |\$$$$$$$ |\$$$$$$$\ \$$$$$$  |$$ |     \$$$$$$$\ \$$$$$$  |
+#\__|      \_______/  \____$$ | \_______| \______/ \__|      \_______| \______/
+#                    $$\   $$ |
+#                    \$$$$$$  |
+#                     \______/
+# https://discord.gg/vanillamcbe
+# https://github.com/psycofeu
+# https://discord.gg/HGJG7EsYKx
+
+furnace_description: "Cuire vos items dans votre main"
+furnace_no_perm: "§c- §fVous n'avez pas la permission d'utiliser cette commande"
+furnace_message: "§a- §fVous avez bien cuit §a{count}x {items}§f !"
+no_furnace_message: "§c- §fVous ne pouvez pas cuire cette item !"
